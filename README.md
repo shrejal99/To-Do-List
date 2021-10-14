@@ -18,4 +18,7 @@ This application has been developed to be used as a basis for a Privacy Friendly
 ---
 
 # Contributors
-
+1. Shrejal Singh
+2. Ekta Arora
+3. Aaquib Ali
+4. Ruthvik
