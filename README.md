@@ -1,4 +1,9 @@
-# To-Do-List Using JavaScript
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84700316/137272402-186085f8-5d9e-4a45-8fff-277ae1075307.png" width="300px">
+  </p>
+
+
+<h1 align="center"> To-Do-List Using JavaScript </h1>
 
 A very basic ToDo List Application for all the Android Enthusiasts !
 
